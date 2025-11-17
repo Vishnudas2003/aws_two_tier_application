@@ -16,7 +16,7 @@ COPY . .
 EXPOSE 3000
 
 # Optional: switch to non-root user if desired
-USER node
+# USER node
 
 # Start app
 CMD ["node", "server.js"]
