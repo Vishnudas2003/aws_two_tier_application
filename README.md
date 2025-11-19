@@ -6,3 +6,5 @@ setuped the node.js and express application
 
 
 # Initialized the two tier application
+
+# completed setting up the environment in the AWS and now going forward for the jenkins to automate the CI/CD pipelines
